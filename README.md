@@ -33,3 +33,6 @@ This web page is hosted [here!]
 * For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
 
 ## Output Snapshots
+
+![image](https://github.com/Sithessh/OCTANET_JANUARY_TASK2/assets/137713496/e61fd5ce-418e-48b8-bcd9-ee9b96401833)
+
