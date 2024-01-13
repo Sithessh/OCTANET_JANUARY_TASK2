@@ -3,7 +3,7 @@
 Creating a TO-DO LIST using HTML,CSS and JavaScript
 
 ## TO-DO LIST Demo: 
-This web page is hosted [here!]
+This web page is hosted [here!](https://sithessh.github.io/OCTANET_JANUARY_TASK2/)
 ## Features
 
 1. User-friendly
